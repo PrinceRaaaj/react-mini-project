@@ -1,0 +1,40 @@
+
+{
+    "userDetails": [
+        {
+            "userId": "0",
+            "name": "Prince",
+            "email": "prince@gmail.com",
+            "mobile": "9856478548",
+            "gender": "Male"
+        },
+        {
+            "userId": "1",
+            "name": "Raj",
+            "email": "raj@gmail.com",
+            "mobile": "7898458657",
+            "gender": "Male"
+        },
+        {
+            "userId": "2",
+            "name": "Reeta",
+            "email": "reeta@gmail.com",
+            "mobile": "7849458657",
+            "gender": "Female"
+        },
+        {
+            "userId": "3",
+            "name": "Neha",
+            "email": "neha@gmail.com",
+            "mobile": "9458758857",
+            "gender": "Female"
+        },
+        {
+            "userId": "4",
+            "name": "Roshan",
+            "email": "roshan@gmail.com",
+            "mobile": "7485459685",
+            "gender": "Male"
+        }
+    ]
+}
